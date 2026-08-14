@@ -2,3 +2,4 @@ streamlit>=1.42
 networkx>=3.4
 plotly>=6.0
 numpy>=2.2
+-e .
