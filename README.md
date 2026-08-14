@@ -8,6 +8,12 @@ The application is built with **Python, Streamlit, Plotly and NetworkX** and is 
 
 ![Monadology Explorer interface](docs/UI_1.png)
 
+## Live Demo
+
+**[Launch Monadology Explorer](https://monadology-explorer.streamlit.app/)**
+
+Explore Leibniz's *Monadology* interactively through curated concepts, semantic relationships, progressive graph discovery and the canonical text.
+
 ## Features
 
 - **Progressive graph exploration** — begin from curated concepts and reveal exactly one hop at a time.
@@ -28,9 +34,7 @@ The application is built with **Python, Streamlit, Plotly and NetworkX** and is 
 
 ## Interactive Reading
 
-Explore philosophical concepts and canonical paragraphs together. Select nodes,
-reveal one-hop relationships, search the text, and move between graph exploration
-and sequential reading.
+Explore philosophical concepts and canonical paragraphs together. Select nodes, reveal one-hop relationships, search the text and move between graph exploration and sequential reading.
 
 ![Monadology Explorer reading view](docs/UI_2.png)
 
@@ -46,7 +50,7 @@ The **Full graph** view provides the complementary inspection mode, showing the 
 
 ## Full-Graph Exploration
 
-The full-graph view exposes the complete curated semantic network, making broader structural patterns, thematic groupings, and highly connected concepts visible.
+The full-graph view exposes the complete curated semantic network, making broader structural patterns, thematic groupings and highly connected concepts visible.
 
 ![Monadology Explorer full graph](docs/Full_graph.png)
 
@@ -242,18 +246,13 @@ The configured rule families include Pycodestyle errors, Pyflakes, import sortin
 
 ## Deployment
 
-The application is suitable for deployment on **Streamlit Community Cloud**.
+The application is publicly deployed on **Streamlit Community Cloud**:
 
-The repository already defines its runtime dependencies in `pyproject.toml`, so deployment does not require a duplicate `requirements.txt`.
+**https://monadology-explorer.streamlit.app/**
 
-For deployment:
+The deployment uses `app.py` as the application entry point and installs the local `src/` package together with the runtime dependencies defined for the cloud environment.
 
-1. Push the repository to GitHub.
-2. Create a Streamlit Community Cloud application from the repository.
-3. Set the application entry point to `app.py`.
-4. Deploy using a supported Python 3.12 runtime.
-
-No external database, authentication service, API key or runtime content-fetching service is required for v1. The application operates from the static curated data committed to the repository.
+No external database, authentication service, API key or runtime content-fetching service is required for v1.
 
 ## Design Principles
 
