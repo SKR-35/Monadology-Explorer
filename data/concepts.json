@@ -1,0 +1,258 @@
+[
+  {
+    "id": "monad",
+    "name": "Monad"
+  },
+  {
+    "id": "simple_substance",
+    "name": "Simple Substance"
+  },
+  {
+    "id": "compound",
+    "name": "Compound"
+  },
+  {
+    "id": "simplicity",
+    "name": "Simplicity"
+  },
+  {
+    "id": "quality",
+    "name": "Quality"
+  },
+  {
+    "id": "individuality",
+    "name": "Individuality"
+  },
+  {
+    "id": "change",
+    "name": "Change"
+  },
+  {
+    "id": "internal_principle",
+    "name": "Internal Principle"
+  },
+  {
+    "id": "multiplicity",
+    "name": "Multiplicity"
+  },
+  {
+    "id": "perception",
+    "name": "Perception"
+  },
+  {
+    "id": "apperception",
+    "name": "Apperception"
+  },
+  {
+    "id": "appetition",
+    "name": "Appetition"
+  },
+  {
+    "id": "mechanism",
+    "name": "Mechanism"
+  },
+  {
+    "id": "entelechy",
+    "name": "Entelechy"
+  },
+  {
+    "id": "soul",
+    "name": "Soul"
+  },
+  {
+    "id": "memory",
+    "name": "Memory"
+  },
+  {
+    "id": "unconscious_perception",
+    "name": "Unconscious Perception"
+  },
+  {
+    "id": "animal",
+    "name": "Animal"
+  },
+  {
+    "id": "habit",
+    "name": "Habit"
+  },
+  {
+    "id": "reason",
+    "name": "Reason"
+  },
+  {
+    "id": "necessary_truth",
+    "name": "Necessary Truth"
+  },
+  {
+    "id": "reflection",
+    "name": "Reflection"
+  },
+  {
+    "id": "mind",
+    "name": "Mind"
+  },
+  {
+    "id": "principle_of_contradiction",
+    "name": "Principle of Contradiction"
+  },
+  {
+    "id": "principle_of_sufficient_reason",
+    "name": "Principle of Sufficient Reason"
+  },
+  {
+    "id": "god",
+    "name": "God"
+  },
+  {
+    "id": "perfection",
+    "name": "Perfection"
+  },
+  {
+    "id": "possible_worlds",
+    "name": "Possible Worlds"
+  },
+  {
+    "id": "harmony",
+    "name": "Harmony"
+  },
+  {
+    "id": "living_mirror",
+    "name": "Living Mirror"
+  },
+  {
+    "id": "body",
+    "name": "Body"
+  },
+  {
+    "id": "organic_body",
+    "name": "Organic Body"
+  },
+  {
+    "id": "pre_established_harmony",
+    "name": "Pre-established Harmony"
+  },
+  {
+    "id": "providence",
+    "name": "Providence"
+  },
+  {
+    "id": "pure_love",
+    "name": "Pure Love"
+  },
+  {
+    "id": "happiness",
+    "name": "Happiness"
+  },
+  {
+    "id": "truth_of_reasoning",
+    "name": "Truth of Reasoning"
+  },
+  {
+    "id": "truth_of_fact",
+    "name": "Truth of Fact"
+  },
+  {
+    "id": "contingency",
+    "name": "Contingency"
+  },
+  {
+    "id": "analysis",
+    "name": "Analysis"
+  },
+  {
+    "id": "simple_idea",
+    "name": "Simple Idea"
+  },
+  {
+    "id": "axiom",
+    "name": "Axiom"
+  },
+  {
+    "id": "postulate",
+    "name": "Postulate"
+  },
+  {
+    "id": "primary_principle",
+    "name": "Primary Principle"
+  },
+  {
+    "id": "necessary_being",
+    "name": "Necessary Being"
+  },
+  {
+    "id": "essence",
+    "name": "Essence"
+  },
+  {
+    "id": "existence",
+    "name": "Existence"
+  },
+  {
+    "id": "eternal_truth",
+    "name": "Eternal Truth"
+  },
+  {
+    "id": "possibility",
+    "name": "Possibility"
+  },
+  {
+    "id": "divine_understanding",
+    "name": "Divine Understanding"
+  },
+  {
+    "id": "power",
+    "name": "Power"
+  },
+  {
+    "id": "knowledge",
+    "name": "Knowledge"
+  },
+  {
+    "id": "will",
+    "name": "Will"
+  },
+  {
+    "id": "activity",
+    "name": "Activity"
+  },
+  {
+    "id": "passivity",
+    "name": "Passivity"
+  },
+  {
+    "id": "divine_mediation",
+    "name": "Divine Mediation"
+  },
+  {
+    "id": "best_world",
+    "name": "Best World"
+  },
+  {
+    "id": "goodness",
+    "name": "Goodness"
+  },
+  {
+    "id": "wisdom",
+    "name": "Wisdom"
+  },
+  {
+    "id": "perspective",
+    "name": "Perspective"
+  },
+  {
+    "id": "universal_order",
+    "name": "Universal Order"
+  },
+  {
+    "id": "efficient_cause",
+    "name": "Efficient Cause"
+  },
+  {
+    "id": "final_cause",
+    "name": "Final Cause"
+  },
+  {
+    "id": "limitation",
+    "name": "Limitation"
+  }
+]

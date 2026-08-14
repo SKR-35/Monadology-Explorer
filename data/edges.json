@@ -1,0 +1,1754 @@
+[
+  {
+    "source": "p001",
+    "target": "monad",
+    "relationship": "discusses",
+    "note": "Defines the Monad."
+  },
+  {
+    "source": "p001",
+    "target": "simple_substance",
+    "relationship": "discusses",
+    "note": "Monad is introduced as a simple substance."
+  },
+  {
+    "source": "p002",
+    "target": "compound",
+    "relationship": "discusses",
+    "note": "Compounds are aggregations of simple things."
+  },
+  {
+    "source": "p002",
+    "target": "simple_substance",
+    "relationship": "develops",
+    "note": "Argues for simple substances from the existence of compounds."
+  },
+  {
+    "source": "p003",
+    "target": "simplicity",
+    "relationship": "develops",
+    "note": "Explains consequences of having no parts."
+  },
+  {
+    "source": "p003",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Monads are described as elements of things."
+  },
+  {
+    "source": "p004",
+    "target": "simple_substance",
+    "relationship": "develops",
+    "note": "Natural dissolution is excluded."
+  },
+  {
+    "source": "p005",
+    "target": "simple_substance",
+    "relationship": "develops",
+    "note": "Natural composition is excluded."
+  },
+  {
+    "source": "p006",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Creation and annihilation delimit monadic coming-to-be and ending."
+  },
+  {
+    "source": "p007",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "External alteration of a Monad is rejected."
+  },
+  {
+    "source": "p007",
+    "target": "internal_principle",
+    "relationship": "develops",
+    "note": "Prepares the account of internally grounded change."
+  },
+  {
+    "source": "p008",
+    "target": "quality",
+    "relationship": "discusses",
+    "note": "Monads must possess qualities."
+  },
+  {
+    "source": "p008",
+    "target": "individuality",
+    "relationship": "develops",
+    "note": "Qualitative difference makes Monads distinguishable."
+  },
+  {
+    "source": "p009",
+    "target": "individuality",
+    "relationship": "develops",
+    "note": "Each Monad differs internally from every other."
+  },
+  {
+    "source": "p010",
+    "target": "change",
+    "relationship": "discusses",
+    "note": "Created Monads undergo continuous change."
+  },
+  {
+    "source": "p011",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Natural change is grounded internally."
+  },
+  {
+    "source": "p011",
+    "target": "internal_principle",
+    "relationship": "discusses",
+    "note": "Introduces the internal principle of change."
+  },
+  {
+    "source": "p012",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Change contains a determinate series."
+  },
+  {
+    "source": "p013",
+    "target": "multiplicity",
+    "relationship": "discusses",
+    "note": "A simple substance contains multiplicity without parts."
+  },
+  {
+    "source": "p014",
+    "target": "perception",
+    "relationship": "discusses",
+    "note": "Defines perception."
+  },
+  {
+    "source": "p014",
+    "target": "multiplicity",
+    "relationship": "develops",
+    "note": "Perception represents multiplicity in unity."
+  },
+  {
+    "source": "p014",
+    "target": "apperception",
+    "relationship": "contrasts with",
+    "note": "Perception is distinguished from apperception or consciousness."
+  },
+  {
+    "source": "p015",
+    "target": "appetition",
+    "relationship": "discusses",
+    "note": "Defines appetition as the activity producing transitions between perceptions."
+  },
+  {
+    "source": "p015",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Appetition links one perception to another."
+  },
+  {
+    "source": "p016",
+    "target": "multiplicity",
+    "relationship": "develops",
+    "note": "Conscious thought illustrates multiplicity in simple substance."
+  },
+  {
+    "source": "p016",
+    "target": "soul",
+    "relationship": "related to",
+    "note": "The soul is used as the experiential example."
+  },
+  {
+    "source": "p017",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Perception cannot be explained mechanically."
+  },
+  {
+    "source": "p017",
+    "target": "mechanism",
+    "relationship": "contrasts with",
+    "note": "Mechanical explanation is contrasted with simple substance."
+  },
+  {
+    "source": "p017",
+    "target": "simple_substance",
+    "relationship": "develops",
+    "note": "Perception is located in simple substance rather than a compound machine."
+  },
+  {
+    "source": "p018",
+    "target": "entelechy",
+    "relationship": "discusses",
+    "note": "Created Monads are described as Entelechies."
+  },
+  {
+    "source": "p018",
+    "target": "monad",
+    "relationship": "related to",
+    "note": "Entelechy is applied to created Monads."
+  },
+  {
+    "source": "p019",
+    "target": "soul",
+    "relationship": "discusses",
+    "note": "Distinguishes Souls from bare Monads or Entelechies."
+  },
+  {
+    "source": "p019",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Soul involves more distinct perception."
+  },
+  {
+    "source": "p019",
+    "target": "memory",
+    "relationship": "discusses",
+    "note": "Memory distinguishes Souls in the narrower sense."
+  },
+  {
+    "source": "p019",
+    "target": "entelechy",
+    "relationship": "related to",
+    "note": "General simple substances remain Monads or Entelechies."
+  },
+  {
+    "source": "p020",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "Uses dreamless sleep to distinguish soul from bare Monad."
+  },
+  {
+    "source": "p020",
+    "target": "memory",
+    "relationship": "related to",
+    "note": "The example concerns temporary absence of remembered/distinct perception."
+  },
+  {
+    "source": "p021",
+    "target": "unconscious_perception",
+    "relationship": "discusses",
+    "note": "Argues perception continues even without conscious distinction."
+  },
+  {
+    "source": "p021",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Introduces the role of many little perceptions."
+  },
+  {
+    "source": "p022",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Present state follows from preceding state."
+  },
+  {
+    "source": "p022",
+    "target": "perception",
+    "relationship": "related to",
+    "note": "Forms part of the continuity argument for perceptual states."
+  },
+  {
+    "source": "p023",
+    "target": "unconscious_perception",
+    "relationship": "develops",
+    "note": "Awakening implies preceding unconscious perceptions."
+  },
+  {
+    "source": "p023",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "One perception naturally proceeds from another."
+  },
+  {
+    "source": "p024",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Bare Monads are characterized by indistinct perception."
+  },
+  {
+    "source": "p024",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Describes the perceptual state of bare Monads."
+  },
+  {
+    "source": "p025",
+    "target": "animal",
+    "relationship": "discusses",
+    "note": "Animal organs produce heightened perceptions."
+  },
+  {
+    "source": "p025",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Bodily organs collect stimuli into stronger perceptions."
+  },
+  {
+    "source": "p026",
+    "target": "memory",
+    "relationship": "discusses",
+    "note": "Explains associative consecutiveness through memory."
+  },
+  {
+    "source": "p026",
+    "target": "animal",
+    "relationship": "develops",
+    "note": "Animal expectation is explained through memory."
+  },
+  {
+    "source": "p026",
+    "target": "reason",
+    "relationship": "contrasts with",
+    "note": "Memory-based consecutiveness resembles but differs from reason."
+  },
+  {
+    "source": "p027",
+    "target": "habit",
+    "relationship": "discusses",
+    "note": "Strong impressions and repeated perceptions form expectation."
+  },
+  {
+    "source": "p027",
+    "target": "memory",
+    "relationship": "develops",
+    "note": "Develops the mechanism described in the preceding paragraph."
+  },
+  {
+    "source": "p028",
+    "target": "habit",
+    "relationship": "develops",
+    "note": "Human empirical action often follows learned expectation."
+  },
+  {
+    "source": "p028",
+    "target": "reason",
+    "relationship": "contrasts with",
+    "note": "Empirical expectation is contrasted with rational explanation."
+  },
+  {
+    "source": "p029",
+    "target": "reason",
+    "relationship": "discusses",
+    "note": "Reason distinguishes rational beings from animals."
+  },
+  {
+    "source": "p029",
+    "target": "necessary_truth",
+    "relationship": "discusses",
+    "note": "Knowledge of necessary and eternal truths grounds reason."
+  },
+  {
+    "source": "p029",
+    "target": "mind",
+    "relationship": "discusses",
+    "note": "Introduces rational soul or mind."
+  },
+  {
+    "source": "p029",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Reason raises us to knowledge of God."
+  },
+  {
+    "source": "p030",
+    "target": "reflection",
+    "relationship": "discusses",
+    "note": "Necessary truths enable acts of reflection."
+  },
+  {
+    "source": "p030",
+    "target": "reason",
+    "relationship": "develops",
+    "note": "Reflection supplies principal objects of reasoning."
+  },
+  {
+    "source": "p030",
+    "target": "mind",
+    "relationship": "develops",
+    "note": "Reflection grounds self-awareness and abstract thought."
+  },
+  {
+    "source": "p030",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Reflection extends from self and substance to God."
+  },
+  {
+    "source": "monad",
+    "target": "simple_substance",
+    "relationship": "related to",
+    "note": "The Monad is characterized as a simple substance."
+  },
+  {
+    "source": "monad",
+    "target": "perception",
+    "relationship": "related to",
+    "note": "Perception is an internal state of Monad."
+  },
+  {
+    "source": "perception",
+    "target": "appetition",
+    "relationship": "related to",
+    "note": "Appetition drives transitions among perceptions."
+  },
+  {
+    "source": "perception",
+    "target": "apperception",
+    "relationship": "contrasts with",
+    "note": "Not every perception is conscious apperception."
+  },
+  {
+    "source": "monad",
+    "target": "entelechy",
+    "relationship": "related to",
+    "note": "Created Monads may be called Entelechies."
+  },
+  {
+    "source": "soul",
+    "target": "memory",
+    "relationship": "related to",
+    "note": "Memory is central to the narrower category of Soul."
+  },
+  {
+    "source": "memory",
+    "target": "reason",
+    "relationship": "contrasts with",
+    "note": "Memory produces animal-like consecutiveness; reason grounds rational knowledge."
+  },
+  {
+    "source": "reason",
+    "target": "necessary_truth",
+    "relationship": "related to",
+    "note": "Reason is grounded in knowledge of necessary truths."
+  },
+  {
+    "source": "reason",
+    "target": "reflection",
+    "relationship": "related to",
+    "note": "Necessary truths enable acts of reflection."
+  },
+  {
+    "source": "reason",
+    "target": "mind",
+    "relationship": "related to",
+    "note": "Reason characterizes the rational soul or mind."
+  },
+  {
+    "source": "p031",
+    "target": "principle_of_contradiction",
+    "relationship": "discusses",
+    "note": "Introduces contradiction as one of the two great principles of reasoning."
+  },
+  {
+    "source": "p031",
+    "target": "reason",
+    "relationship": "develops",
+    "note": "Begins the account of the principles grounding reasoning."
+  },
+  {
+    "source": "p032",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "discusses",
+    "note": "Introduces the principle of sufficient reason."
+  },
+  {
+    "source": "p032",
+    "target": "truth_of_fact",
+    "relationship": "related to",
+    "note": "The principle applies to facts and true statements that require a reason."
+  },
+  {
+    "source": "p033",
+    "target": "truth_of_reasoning",
+    "relationship": "discusses",
+    "note": "Distinguishes truths of reasoning from truths of fact."
+  },
+  {
+    "source": "p033",
+    "target": "truth_of_fact",
+    "relationship": "discusses",
+    "note": "Distinguishes contingent truths of fact."
+  },
+  {
+    "source": "p033",
+    "target": "necessary_truth",
+    "relationship": "develops",
+    "note": "Truths of reasoning are characterized as necessary."
+  },
+  {
+    "source": "p033",
+    "target": "contingency",
+    "relationship": "discusses",
+    "note": "Truths of fact are characterized as contingent."
+  },
+  {
+    "source": "p033",
+    "target": "analysis",
+    "relationship": "discusses",
+    "note": "Necessary truths are resolved analytically into simpler truths."
+  },
+  {
+    "source": "p034",
+    "target": "analysis",
+    "relationship": "develops",
+    "note": "Uses mathematics as an example of reduction by analysis."
+  },
+  {
+    "source": "p034",
+    "target": "axiom",
+    "relationship": "discusses",
+    "note": "Names axioms among the termini of mathematical analysis."
+  },
+  {
+    "source": "p034",
+    "target": "postulate",
+    "relationship": "discusses",
+    "note": "Names postulates among the termini of mathematical analysis."
+  },
+  {
+    "source": "p035",
+    "target": "simple_idea",
+    "relationship": "discusses",
+    "note": "Introduces simple ideas as indefinable."
+  },
+  {
+    "source": "p035",
+    "target": "axiom",
+    "relationship": "develops",
+    "note": "Treats axioms as primary principles not requiring proof."
+  },
+  {
+    "source": "p035",
+    "target": "postulate",
+    "relationship": "develops",
+    "note": "Treats postulates as primary principles not requiring proof."
+  },
+  {
+    "source": "p035",
+    "target": "primary_principle",
+    "relationship": "discusses",
+    "note": "Identifies the stopping points of analysis as primary principles."
+  },
+  {
+    "source": "p035",
+    "target": "principle_of_contradiction",
+    "relationship": "related to",
+    "note": "The opposite of an identical proposition involves contradiction."
+  },
+  {
+    "source": "p036",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "develops",
+    "note": "Applies sufficient reason to contingent truths and the created universe."
+  },
+  {
+    "source": "p036",
+    "target": "truth_of_fact",
+    "relationship": "develops",
+    "note": "Explains why truths of fact require reasons."
+  },
+  {
+    "source": "p036",
+    "target": "contingency",
+    "relationship": "develops",
+    "note": "Shows the indefinitely detailed chain of contingent reasons."
+  },
+  {
+    "source": "p036",
+    "target": "efficient_cause",
+    "relationship": "discusses",
+    "note": "Uses the sequence of forms and motions as an efficient-cause example."
+  },
+  {
+    "source": "p036",
+    "target": "final_cause",
+    "relationship": "discusses",
+    "note": "Uses tendencies and dispositions of the soul as a final-cause example."
+  },
+  {
+    "source": "p037",
+    "target": "contingency",
+    "relationship": "develops",
+    "note": "The series of contingent things cannot provide its own final sufficient reason."
+  },
+  {
+    "source": "p037",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "develops",
+    "note": "Pushes the sufficient-reason inquiry beyond the contingent series."
+  },
+  {
+    "source": "p038",
+    "target": "necessary_being",
+    "relationship": "discusses",
+    "note": "Locates the final reason of things in a necessary substance."
+  },
+  {
+    "source": "p038",
+    "target": "god",
+    "relationship": "discusses",
+    "note": "Identifies the necessary substance as God."
+  },
+  {
+    "source": "p038",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "develops",
+    "note": "Completes the move from contingent reasons to a necessary source."
+  },
+  {
+    "source": "p039",
+    "target": "god",
+    "relationship": "develops",
+    "note": "Describes God as the sufficient reason of the connected variety of particulars."
+  },
+  {
+    "source": "p039",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "related to",
+    "note": "God is presented as sufficient for the connected order of particulars."
+  },
+  {
+    "source": "p040",
+    "target": "necessary_being",
+    "relationship": "develops",
+    "note": "Describes the supreme substance as unique, universal, and necessary."
+  },
+  {
+    "source": "p040",
+    "target": "god",
+    "relationship": "develops",
+    "note": "Develops the character of the supreme substance."
+  },
+  {
+    "source": "p040",
+    "target": "possibility",
+    "relationship": "related to",
+    "note": "The supreme substance contains as much reality as is possible."
+  },
+  {
+    "source": "p041",
+    "target": "god",
+    "relationship": "develops",
+    "note": "Concludes that God is absolutely perfect."
+  },
+  {
+    "source": "p041",
+    "target": "perfection",
+    "relationship": "discusses",
+    "note": "Defines perfection in terms of positive reality without limitation."
+  },
+  {
+    "source": "p042",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "Created beings derive perfections from God."
+  },
+  {
+    "source": "p042",
+    "target": "limitation",
+    "relationship": "discusses",
+    "note": "Created imperfection is grounded in limitation."
+  },
+  {
+    "source": "p042",
+    "target": "god",
+    "relationship": "related to",
+    "note": "God is the source of created perfections."
+  },
+  {
+    "source": "p043",
+    "target": "essence",
+    "relationship": "discusses",
+    "note": "God is presented as the source of essences as well as existences."
+  },
+  {
+    "source": "p043",
+    "target": "eternal_truth",
+    "relationship": "discusses",
+    "note": "Eternal truths are located in the understanding of God."
+  },
+  {
+    "source": "p043",
+    "target": "possibility",
+    "relationship": "develops",
+    "note": "Possible things have reality through the divine understanding."
+  },
+  {
+    "source": "p043",
+    "target": "divine_understanding",
+    "relationship": "discusses",
+    "note": "The understanding of God is described as the region of eternal truths."
+  },
+  {
+    "source": "p043",
+    "target": "god",
+    "relationship": "develops",
+    "note": "Extends God from source of existences to source of essences."
+  },
+  {
+    "source": "p044",
+    "target": "essence",
+    "relationship": "develops",
+    "note": "Reality in essences must be grounded in something actual."
+  },
+  {
+    "source": "p044",
+    "target": "existence",
+    "relationship": "discusses",
+    "note": "Links possibility and essence to actual existence in the necessary Being."
+  },
+  {
+    "source": "p044",
+    "target": "necessary_being",
+    "relationship": "develops",
+    "note": "In the necessary Being, essence involves existence."
+  },
+  {
+    "source": "p044",
+    "target": "eternal_truth",
+    "relationship": "related to",
+    "note": "The reality of eternal truths is grounded in necessary existence."
+  },
+  {
+    "source": "p045",
+    "target": "necessary_being",
+    "relationship": "develops",
+    "note": "Argues that the necessary Being must exist if possible."
+  },
+  {
+    "source": "p045",
+    "target": "god",
+    "relationship": "develops",
+    "note": "Presents a priori and a posteriori routes to God's existence."
+  },
+  {
+    "source": "p045",
+    "target": "possibility",
+    "relationship": "develops",
+    "note": "God's possibility is connected to necessary existence."
+  },
+  {
+    "source": "p045",
+    "target": "existence",
+    "relationship": "develops",
+    "note": "Makes existence internal to the account of the necessary Being."
+  },
+  {
+    "source": "p046",
+    "target": "eternal_truth",
+    "relationship": "develops",
+    "note": "Rejects the view that eternal truths are arbitrary acts of divine will."
+  },
+  {
+    "source": "p046",
+    "target": "divine_understanding",
+    "relationship": "develops",
+    "note": "Necessary truths depend on God's understanding."
+  },
+  {
+    "source": "p046",
+    "target": "will",
+    "relationship": "contrasts with",
+    "note": "Necessary truths are contrasted with contingent truths dependent on choice."
+  },
+  {
+    "source": "p046",
+    "target": "best_world",
+    "relationship": "related to",
+    "note": "Contingent choice is associated with fitness or the choice of the best."
+  },
+  {
+    "source": "p047",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God is described as primary unity and original simple substance."
+  },
+  {
+    "source": "p047",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Created Monads are presented as derivative products of the Divinity."
+  },
+  {
+    "source": "p047",
+    "target": "simple_substance",
+    "relationship": "related to",
+    "note": "God is called the original simple substance."
+  },
+  {
+    "source": "p048",
+    "target": "power",
+    "relationship": "discusses",
+    "note": "Names Power as the source of all in God."
+  },
+  {
+    "source": "p048",
+    "target": "knowledge",
+    "relationship": "discusses",
+    "note": "Names Knowledge as containing the variety of ideas."
+  },
+  {
+    "source": "p048",
+    "target": "will",
+    "relationship": "discusses",
+    "note": "Names Will as producing according to the principle of the best."
+  },
+  {
+    "source": "p048",
+    "target": "perception",
+    "relationship": "related to",
+    "note": "Divine Knowledge corresponds analogically to perception in created Monads."
+  },
+  {
+    "source": "p048",
+    "target": "appetition",
+    "relationship": "related to",
+    "note": "Divine Will corresponds analogically to appetition in created Monads."
+  },
+  {
+    "source": "p048",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "Divine attributes are absolutely infinite or perfect."
+  },
+  {
+    "source": "p049",
+    "target": "activity",
+    "relationship": "discusses",
+    "note": "Associates activity with perfection and distinct perception."
+  },
+  {
+    "source": "p049",
+    "target": "passivity",
+    "relationship": "discusses",
+    "note": "Associates passivity with imperfection and confused perception."
+  },
+  {
+    "source": "p049",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Distinct and confused perceptions ground activity and passivity."
+  },
+  {
+    "source": "p049",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "The activity/passivity distinction is tied to degrees of perfection."
+  },
+  {
+    "source": "p050",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "The more perfect explains a priori what occurs in the less perfect."
+  },
+  {
+    "source": "p050",
+    "target": "activity",
+    "relationship": "develops",
+    "note": "Explains why the more perfect is said to act upon the less perfect."
+  },
+  {
+    "source": "p051",
+    "target": "divine_mediation",
+    "relationship": "discusses",
+    "note": "Influence among Monads is ideal and mediated by God."
+  },
+  {
+    "source": "p051",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God mediates the ideal dependence among created Monads."
+  },
+  {
+    "source": "p051",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Reaffirms that one Monad has no physical influence on another."
+  },
+  {
+    "source": "p052",
+    "target": "activity",
+    "relationship": "develops",
+    "note": "Activities and passivities among created things are described as mutual."
+  },
+  {
+    "source": "p052",
+    "target": "passivity",
+    "relationship": "develops",
+    "note": "The same created thing may be passive from another point of view."
+  },
+  {
+    "source": "p052",
+    "target": "divine_mediation",
+    "relationship": "develops",
+    "note": "God's comparison and adaptation of substances grounds their ideal relation."
+  },
+  {
+    "source": "p053",
+    "target": "possible_worlds",
+    "relationship": "discusses",
+    "note": "Introduces the infinite number of possible universes in the ideas of God."
+  },
+  {
+    "source": "p053",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "develops",
+    "note": "God's choice of one possible universe requires a sufficient reason."
+  },
+  {
+    "source": "p053",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Possible universes are considered within the ideas and choice of God."
+  },
+  {
+    "source": "p054",
+    "target": "possible_worlds",
+    "relationship": "develops",
+    "note": "Possible worlds differ in degrees of perfection."
+  },
+  {
+    "source": "p054",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "Perfection provides the fitness relevant to possible existence."
+  },
+  {
+    "source": "p055",
+    "target": "best_world",
+    "relationship": "discusses",
+    "note": "The best is made actual through divine wisdom, goodness, and power."
+  },
+  {
+    "source": "p055",
+    "target": "wisdom",
+    "relationship": "discusses",
+    "note": "Wisdom makes the best known to God."
+  },
+  {
+    "source": "p055",
+    "target": "goodness",
+    "relationship": "discusses",
+    "note": "Goodness leads God to choose the best."
+  },
+  {
+    "source": "p055",
+    "target": "power",
+    "relationship": "develops",
+    "note": "Power makes the chosen best world actual."
+  },
+  {
+    "source": "p056",
+    "target": "living_mirror",
+    "relationship": "discusses",
+    "note": "Each simple substance is described as a perpetual living mirror of the universe."
+  },
+  {
+    "source": "p056",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "The mutual adaptation of all created things grounds universal expression."
+  },
+  {
+    "source": "p056",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Each Monad expresses all the others through its relations."
+  },
+  {
+    "source": "p057",
+    "target": "perspective",
+    "relationship": "discusses",
+    "note": "Uses the town analogy to explain different perspectives on one universe."
+  },
+  {
+    "source": "p057",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Each Monad expresses the universe from its own point of view."
+  },
+  {
+    "source": "p057",
+    "target": "living_mirror",
+    "relationship": "develops",
+    "note": "Develops the perspectival character of monadic representation."
+  },
+  {
+    "source": "p058",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "The system yields the greatest possible variety together with order."
+  },
+  {
+    "source": "p058",
+    "target": "universal_order",
+    "relationship": "discusses",
+    "note": "Links maximal variety with maximal order."
+  },
+  {
+    "source": "p059",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "Defends universal harmony as the exact expression of substances through their relations."
+  },
+  {
+    "source": "p059",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Universal harmony is connected to the greatness attributed to God."
+  },
+  {
+    "source": "p060",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Each Monad represents the whole while differing in clarity of representation."
+  },
+  {
+    "source": "p060",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Monads are differentiated through degrees of distinct perception."
+  },
+  {
+    "source": "p060",
+    "target": "perspective",
+    "relationship": "develops",
+    "note": "Representation is limited in clarity by each Monad's point of view."
+  },
+  {
+    "source": "p060",
+    "target": "limitation",
+    "relationship": "develops",
+    "note": "Created Monads are limited in how distinctly they know their object."
+  },
+  {
+    "source": "principle_of_contradiction",
+    "target": "necessary_truth",
+    "relationship": "related to",
+    "note": "Necessary truths are tied to impossibility of the contradictory opposite."
+  },
+  {
+    "source": "principle_of_sufficient_reason",
+    "target": "truth_of_fact",
+    "relationship": "related to",
+    "note": "Truths of fact require sufficient reasons."
+  },
+  {
+    "source": "truth_of_reasoning",
+    "target": "necessary_truth",
+    "relationship": "related to",
+    "note": "Truths of reasoning are necessary."
+  },
+  {
+    "source": "truth_of_fact",
+    "target": "contingency",
+    "relationship": "related to",
+    "note": "Truths of fact are contingent."
+  },
+  {
+    "source": "necessary_truth",
+    "target": "analysis",
+    "relationship": "related to",
+    "note": "Necessary truths are resolved by analysis toward primary principles."
+  },
+  {
+    "source": "analysis",
+    "target": "primary_principle",
+    "relationship": "related to",
+    "note": "Analysis terminates in primary principles."
+  },
+  {
+    "source": "necessary_being",
+    "target": "god",
+    "relationship": "related to",
+    "note": "The necessary substance is identified as God."
+  },
+  {
+    "source": "god",
+    "target": "perfection",
+    "relationship": "related to",
+    "note": "God is characterized as absolutely perfect."
+  },
+  {
+    "source": "god",
+    "target": "divine_understanding",
+    "relationship": "related to",
+    "note": "The divine understanding contains eternal truths and ideas."
+  },
+  {
+    "source": "god",
+    "target": "power",
+    "relationship": "related to",
+    "note": "Power is one of the principal divine attributes named in §48."
+  },
+  {
+    "source": "god",
+    "target": "knowledge",
+    "relationship": "related to",
+    "note": "Knowledge is one of the principal divine attributes named in §48."
+  },
+  {
+    "source": "god",
+    "target": "will",
+    "relationship": "related to",
+    "note": "Will is one of the principal divine attributes named in §48."
+  },
+  {
+    "source": "activity",
+    "target": "passivity",
+    "relationship": "contrasts with",
+    "note": "Activity and passivity form a reciprocal contrast among created things."
+  },
+  {
+    "source": "possible_worlds",
+    "target": "best_world",
+    "relationship": "related to",
+    "note": "Divine choice selects the best among possible worlds."
+  },
+  {
+    "source": "best_world",
+    "target": "perfection",
+    "relationship": "related to",
+    "note": "The best world is selected in relation to degrees of perfection."
+  },
+  {
+    "source": "best_world",
+    "target": "wisdom",
+    "relationship": "related to",
+    "note": "Wisdom recognizes the best."
+  },
+  {
+    "source": "best_world",
+    "target": "goodness",
+    "relationship": "related to",
+    "note": "Goodness chooses the best."
+  },
+  {
+    "source": "harmony",
+    "target": "living_mirror",
+    "relationship": "related to",
+    "note": "Universal adaptation makes each simple substance a living mirror."
+  },
+  {
+    "source": "living_mirror",
+    "target": "perspective",
+    "relationship": "related to",
+    "note": "Each living mirror expresses the universe from a distinct perspective."
+  },
+  {
+    "source": "p061",
+    "target": "body",
+    "relationship": "discusses",
+    "note": "Explains how each body is connected with and affected by the rest of the material universe."
+  },
+  {
+    "source": "p061",
+    "target": "living_mirror",
+    "relationship": "develops",
+    "note": "Extends universal representation from simple substances to embodied relations."
+  },
+  {
+    "source": "p061",
+    "target": "perception",
+    "relationship": "develops",
+    "note": "Contrasts universal bodily connection with the soul's limited distinct perception."
+  },
+  {
+    "source": "p062",
+    "target": "monad",
+    "relationship": "develops",
+    "note": "Each created Monad represents the whole universe."
+  },
+  {
+    "source": "p062",
+    "target": "body",
+    "relationship": "develops",
+    "note": "A Monad represents most distinctly the body specially belonging to it."
+  },
+  {
+    "source": "p062",
+    "target": "entelechy",
+    "relationship": "related to",
+    "note": "The Monad is described as the entelechy of its corresponding body."
+  },
+  {
+    "source": "p063",
+    "target": "body",
+    "relationship": "develops",
+    "note": "The body belonging to a Monad helps constitute a living being."
+  },
+  {
+    "source": "p063",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "A body together with a soul constitutes an animal."
+  },
+  {
+    "source": "p063",
+    "target": "organic_body",
+    "relationship": "discusses",
+    "note": "The body of a living being or animal is characterized as organic."
+  },
+  {
+    "source": "p063",
+    "target": "entelechy",
+    "relationship": "related to",
+    "note": "The entelechy is paired with its organic body in the constitution of living beings."
+  },
+  {
+    "source": "p064",
+    "target": "organic_body",
+    "relationship": "develops",
+    "note": "Defines the organic body as a divine machine or natural automaton."
+  },
+  {
+    "source": "p064",
+    "target": "mechanism",
+    "relationship": "develops",
+    "note": "Natural machines are mechanical through every level of their organization."
+  },
+  {
+    "source": "p064",
+    "target": "perfection",
+    "relationship": "related to",
+    "note": "Natural machines infinitely surpass artificial machines in organization."
+  },
+  {
+    "source": "p065",
+    "target": "body",
+    "relationship": "develops",
+    "note": "Matter is actually subdivided without end, allowing every portion to express the universe."
+  },
+  {
+    "source": "p065",
+    "target": "living_mirror",
+    "relationship": "related to",
+    "note": "Infinite subdivision supports the universal expressive structure of embodied nature."
+  },
+  {
+    "source": "p065",
+    "target": "god",
+    "relationship": "related to",
+    "note": "The infinite organization of matter is attributed to the Author of nature."
+  },
+  {
+    "source": "p066",
+    "target": "entelechy",
+    "relationship": "develops",
+    "note": "Every smallest portion of matter contains living beings, entelechies, and souls."
+  },
+  {
+    "source": "p066",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "Souls are present throughout the nested organization of living nature."
+  },
+  {
+    "source": "p066",
+    "target": "organic_body",
+    "relationship": "related to",
+    "note": "Organic life extends into the smallest portions of matter."
+  },
+  {
+    "source": "p067",
+    "target": "organic_body",
+    "relationship": "develops",
+    "note": "The garden-and-pond analogy illustrates nested living organization within matter."
+  },
+  {
+    "source": "p067",
+    "target": "body",
+    "relationship": "related to",
+    "note": "Every part of living bodies contains further organized living structures."
+  },
+  {
+    "source": "p068",
+    "target": "perception",
+    "relationship": "related to",
+    "note": "Living structures may be too minute to be perceptible to us."
+  },
+  {
+    "source": "p068",
+    "target": "organic_body",
+    "relationship": "develops",
+    "note": "Apparently empty matter still contains living organized beings."
+  },
+  {
+    "source": "p069",
+    "target": "universal_order",
+    "relationship": "discusses",
+    "note": "Affirms that there is no true chaos, sterility, or death in the universe."
+  },
+  {
+    "source": "p069",
+    "target": "perception",
+    "relationship": "related to",
+    "note": "Apparent confusion results from our inability to distinguish the underlying order."
+  },
+  {
+    "source": "p069",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "The universe remains ordered despite confused appearances."
+  },
+  {
+    "source": "p070",
+    "target": "entelechy",
+    "relationship": "develops",
+    "note": "Each living body has a dominant entelechy."
+  },
+  {
+    "source": "p070",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "In animals the dominant entelechy is the soul."
+  },
+  {
+    "source": "p070",
+    "target": "organic_body",
+    "relationship": "develops",
+    "note": "Living bodies contain further living beings with their own dominant principles."
+  },
+  {
+    "source": "p071",
+    "target": "body",
+    "relationship": "develops",
+    "note": "Rejects the idea that a soul owns one permanently fixed portion of matter."
+  },
+  {
+    "source": "p071",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Bodies are in perpetual flux, continuously exchanging parts."
+  },
+  {
+    "source": "p071",
+    "target": "soul",
+    "relationship": "related to",
+    "note": "The soul remains related to a body whose material composition changes."
+  },
+  {
+    "source": "p072",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "The soul changes its body gradually rather than becoming wholly disembodied."
+  },
+  {
+    "source": "p072",
+    "target": "body",
+    "relationship": "develops",
+    "note": "Embodiment persists through gradual organic transformation."
+  },
+  {
+    "source": "p072",
+    "target": "god",
+    "relationship": "contrasts with",
+    "note": "God alone is described as completely without body."
+  },
+  {
+    "source": "p073",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Birth and death are reinterpreted as development and diminution rather than absolute beginning or end."
+  },
+  {
+    "source": "p073",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "Rejects complete death as strict separation of soul from body."
+  },
+  {
+    "source": "p073",
+    "target": "body",
+    "relationship": "develops",
+    "note": "Organic transformations replace absolute generation and destruction."
+  },
+  {
+    "source": "p074",
+    "target": "entelechy",
+    "relationship": "develops",
+    "note": "Discusses the origin and preformation of forms, entelechies, and souls."
+  },
+  {
+    "source": "p074",
+    "target": "organic_body",
+    "relationship": "develops",
+    "note": "Organic bodies are presented as preformed rather than generated from chaos."
+  },
+  {
+    "source": "p074",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "The soul is already present in the preformed living body."
+  },
+  {
+    "source": "p075",
+    "target": "animal",
+    "relationship": "develops",
+    "note": "Distinguishes spermatic animals that develop into larger animals from those that remain in their kind."
+  },
+  {
+    "source": "p075",
+    "target": "change",
+    "relationship": "related to",
+    "note": "Conception is treated as transformation within continuing life."
+  },
+  {
+    "source": "p076",
+    "target": "animal",
+    "relationship": "develops",
+    "note": "Extends the rejection of natural absolute generation to natural absolute destruction."
+  },
+  {
+    "source": "p076",
+    "target": "change",
+    "relationship": "develops",
+    "note": "Natural development and transformation replace absolute beginning and ending."
+  },
+  {
+    "source": "p076",
+    "target": "principle_of_sufficient_reason",
+    "relationship": "related to",
+    "note": "Empirical findings are presented as agreeing with principles previously deduced a priori."
+  },
+  {
+    "source": "p077",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "The soul is described as indestructible."
+  },
+  {
+    "source": "p077",
+    "target": "animal",
+    "relationship": "develops",
+    "note": "The animal persists despite partial destruction or exchange of its organic mechanism."
+  },
+  {
+    "source": "p077",
+    "target": "mechanism",
+    "relationship": "related to",
+    "note": "The animal's organic mechanism may partially perish without annihilating the animal."
+  },
+  {
+    "source": "p078",
+    "target": "pre_established_harmony",
+    "relationship": "discusses",
+    "note": "Explicitly introduces pre-established harmony as the basis of agreement between soul and body."
+  },
+  {
+    "source": "p078",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "The soul follows its own laws."
+  },
+  {
+    "source": "p078",
+    "target": "body",
+    "relationship": "develops",
+    "note": "The body follows its own laws while remaining coordinated with the soul."
+  },
+  {
+    "source": "p078",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "The agreement of substances is grounded in a pre-established harmony."
+  },
+  {
+    "source": "p079",
+    "target": "final_cause",
+    "relationship": "discusses",
+    "note": "Souls act according to final causes through appetitions, ends, and means."
+  },
+  {
+    "source": "p079",
+    "target": "efficient_cause",
+    "relationship": "discusses",
+    "note": "Bodies act according to efficient causes and motions."
+  },
+  {
+    "source": "p079",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "The realms of efficient and final causes are said to harmonize."
+  },
+  {
+    "source": "p079",
+    "target": "appetition",
+    "relationship": "related to",
+    "note": "Appetition belongs to the soul's final-causal mode of action."
+  },
+  {
+    "source": "p080",
+    "target": "pre_established_harmony",
+    "relationship": "develops",
+    "note": "Leibniz contrasts his system with Descartes' account of soul-body interaction."
+  },
+  {
+    "source": "p080",
+    "target": "body",
+    "relationship": "develops",
+    "note": "Uses conservation in matter to reject direct redirection of bodies by souls."
+  },
+  {
+    "source": "p080",
+    "target": "mechanism",
+    "relationship": "related to",
+    "note": "The argument depends on laws governing material motion."
+  },
+  {
+    "source": "p081",
+    "target": "pre_established_harmony",
+    "relationship": "develops",
+    "note": "Summarizes the system in which souls and bodies proceed independently yet correspond as if interacting."
+  },
+  {
+    "source": "p081",
+    "target": "soul",
+    "relationship": "related to",
+    "note": "Souls act according to their own laws."
+  },
+  {
+    "source": "p081",
+    "target": "body",
+    "relationship": "related to",
+    "note": "Bodies act according to their own laws."
+  },
+  {
+    "source": "p082",
+    "target": "mind",
+    "relationship": "develops",
+    "note": "Rational souls are distinguished from ordinary sensitive souls by elevation to reason and mind."
+  },
+  {
+    "source": "p082",
+    "target": "reason",
+    "relationship": "develops",
+    "note": "Human rational souls attain the rank of reason."
+  },
+  {
+    "source": "p082",
+    "target": "soul",
+    "relationship": "develops",
+    "note": "Explains the transition from sensuous soul to rational soul."
+  },
+  {
+    "source": "p083",
+    "target": "mind",
+    "relationship": "develops",
+    "note": "Minds are not only mirrors of creation but also images of the Deity."
+  },
+  {
+    "source": "p083",
+    "target": "living_mirror",
+    "relationship": "develops",
+    "note": "Extends the living-mirror metaphor from souls to rational minds."
+  },
+  {
+    "source": "p083",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Minds are capable of knowing and imitating the order established by God."
+  },
+  {
+    "source": "p084",
+    "target": "mind",
+    "relationship": "develops",
+    "note": "Minds enter into a distinctive fellowship with God."
+  },
+  {
+    "source": "p084",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God's relation to minds is compared to that of prince to subjects and father to children."
+  },
+  {
+    "source": "p085",
+    "target": "mind",
+    "relationship": "develops",
+    "note": "The totality of rational spirits constitutes the City of God."
+  },
+  {
+    "source": "p085",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God is presented as the perfect monarch of the City of God."
+  },
+  {
+    "source": "p085",
+    "target": "best_world",
+    "relationship": "related to",
+    "note": "The City of God is characterized as the most perfect possible state."
+  },
+  {
+    "source": "p086",
+    "target": "god",
+    "relationship": "develops",
+    "note": "The City of God is the moral world in which divine glory is known by spirits."
+  },
+  {
+    "source": "p086",
+    "target": "goodness",
+    "relationship": "develops",
+    "note": "Divine goodness is especially manifested in relation to the moral community of spirits."
+  },
+  {
+    "source": "p086",
+    "target": "power",
+    "relationship": "related to",
+    "note": "God's power is said to be manifested throughout nature."
+  },
+  {
+    "source": "p086",
+    "target": "wisdom",
+    "relationship": "related to",
+    "note": "God's wisdom is said to be manifested throughout nature."
+  },
+  {
+    "source": "p087",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "Introduces a second harmony between the natural realm and the moral realm of grace."
+  },
+  {
+    "source": "p087",
+    "target": "efficient_cause",
+    "relationship": "related to",
+    "note": "Recalls the harmony involving the realm of efficient causes."
+  },
+  {
+    "source": "p087",
+    "target": "final_cause",
+    "relationship": "related to",
+    "note": "Recalls the harmony involving the realm of final causes."
+  },
+  {
+    "source": "p087",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God is considered both as architect of nature and monarch of the moral city."
+  },
+  {
+    "source": "p088",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "Natural events are coordinated with the moral government of spirits."
+  },
+  {
+    "source": "p088",
+    "target": "god",
+    "relationship": "related to",
+    "note": "The government of spirits is integrated with the order of nature."
+  },
+  {
+    "source": "p088",
+    "target": "universal_order",
+    "relationship": "develops",
+    "note": "Natural renewal and moral consequence are coordinated within one order."
+  },
+  {
+    "source": "p089",
+    "target": "god",
+    "relationship": "develops",
+    "note": "God as Architect and God as Lawgiver are said to satisfy one another."
+  },
+  {
+    "source": "p089",
+    "target": "mechanism",
+    "relationship": "develops",
+    "note": "Moral consequences are linked to the mechanical structure and order of things."
+  },
+  {
+    "source": "p089",
+    "target": "universal_order",
+    "relationship": "develops",
+    "note": "Reward and punishment are integrated into the order of nature."
+  },
+  {
+    "source": "p090",
+    "target": "providence",
+    "relationship": "discusses",
+    "note": "The concluding paragraph explicitly connects trust in Providence with the perfect government of the whole."
+  },
+  {
+    "source": "p090",
+    "target": "pure_love",
+    "relationship": "discusses",
+    "note": "Pure love is described as delight in the happiness and perfection of the beloved."
+  },
+  {
+    "source": "p090",
+    "target": "happiness",
+    "relationship": "discusses",
+    "note": "The final cause and Author of all is presented as the source of true happiness."
+  },
+  {
+    "source": "p090",
+    "target": "perfection",
+    "relationship": "develops",
+    "note": "The wise find pleasure in contemplation of divine perfection."
+  },
+  {
+    "source": "p090",
+    "target": "harmony",
+    "relationship": "develops",
+    "note": "The conclusion asks the reader to recognize the superior harmony of the order of the universe."
+  },
+  {
+    "source": "body",
+    "target": "organic_body",
+    "relationship": "related to",
+    "note": "Living bodies are characterized as organic bodies."
+  },
+  {
+    "source": "soul",
+    "target": "body",
+    "relationship": "related to",
+    "note": "Soul and body form a coordinated living being without direct causal interaction."
+  },
+  {
+    "source": "soul",
+    "target": "pre_established_harmony",
+    "relationship": "related to",
+    "note": "The agreement between soul and body is grounded in pre-established harmony."
+  },
+  {
+    "source": "body",
+    "target": "pre_established_harmony",
+    "relationship": "related to",
+    "note": "Bodily and psychic laws correspond through pre-established harmony."
+  },
+  {
+    "source": "pre_established_harmony",
+    "target": "harmony",
+    "relationship": "related to",
+    "note": "Pre-established harmony is a specific form of the universal coordination among substances."
+  },
+  {
+    "source": "mind",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Rational minds have a distinctive cognitive and moral relation to God."
+  },
+  {
+    "source": "providence",
+    "target": "god",
+    "relationship": "related to",
+    "note": "Providence names divine governance of the whole."
+  },
+  {
+    "source": "pure_love",
+    "target": "happiness",
+    "relationship": "related to",
+    "note": "Pure love culminates in delight in the happiness of the beloved."
+  },
+  {
+    "source": "happiness",
+    "target": "god",
+    "relationship": "related to",
+    "note": "The final paragraph locates ultimate happiness in relation to God."
+  },  
+  {
+  "source": "monad",
+  "target": "quality",
+  "relationship": "related to",
+  "note": "Monads require qualitative differences in order to be distinguishable from one another."
+}
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "nature_of_monads",
+    "name": "The Nature of Monads",
+    "paragraph_start": 1,
+    "paragraph_end": 18,
+    "starting_concepts": ["monad", "simple_substance", "perception", "appetition"]
+  },
+  {
+    "id": "natural_psychic_hierarchy",
+    "name": "Natural and Psychic Hierarchy",
+    "paragraph_start": 19,
+    "paragraph_end": 30,
+    "starting_concepts": ["soul", "memory", "reason", "reflection"]
+  },
+  {
+    "id": "truth_reason_god",
+    "name": "Truth, Reason, and God",
+    "paragraph_start": 31,
+    "paragraph_end": 48,
+    "starting_concepts": [
+      "principle_of_contradiction",
+      "principle_of_sufficient_reason",
+      "necessary_truth",
+      "god"
+    ]
+  },
+  {
+    "id": "creation_harmony",
+    "name": "Creation and Harmony",
+    "paragraph_start": 49,
+    "paragraph_end": 60,
+    "starting_concepts": [
+      "perfection",
+      "possible_worlds",
+      "harmony",
+      "living_mirror"
+    ]
+  },
+  {
+    "id": "bodies_souls_nature",
+    "name": "Bodies, Souls, and Nature",
+    "paragraph_start": 61,
+    "paragraph_end": 89,
+    "starting_concepts": [
+      "body",
+      "organic_body",
+      "entelechy",
+      "pre_established_harmony"
+    ]
+  },
+  {
+    "id": "conclusion",
+    "name": "Conclusion",
+    "paragraph_start": 90,
+    "paragraph_end": 90,
+    "starting_concepts": ["providence", "pure_love", "happiness"]
+  }
+]
