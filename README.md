@@ -77,7 +77,7 @@ The v1 graph is intentionally **undirected**. Its relationships represent semant
 
 The canonical English text is derived from the **Robert Latta translation of Leibniz's _Monadology_ available through Wikisource**.
 
-`Archive/` retains source material used during curation. The deployed application does **not** retrieve the text from Wikisource at runtime; it reads the repository's generated and validated static JSON dataset.
+The deployed application does **not** retrieve the text from Wikisource at runtime; it reads the repository's generated and validated static JSON dataset.
 
 `scripts/build_paragraphs.py` is a development-time acquisition utility that extracts paragraphs §1–§90 and assigns them to the configured editorial theme ranges.
 
@@ -87,7 +87,6 @@ The concepts, themes and semantic relationships are curated project data. They s
 
 ```text
 Monadology-Explorer/
-├── Archive/                     # Archived source/curation material
 ├── data/
 │   ├── concepts.json            # Curated philosophical concepts
 │   ├── edges.json               # Curated semantic relationships
@@ -108,7 +107,7 @@ Monadology-Explorer/
 │       └── validation.py        # Dataset-contract validation
 ├── tests/                       # Pytest test suite
 ├── app.py                       # Streamlit application
-├── DECISIONS.md                 # Important design and implementation decisions
+├── requirements.txt             # Deployment dependencies for Streamlit Community Cloud
 ├── pyproject.toml               # Package metadata and dependencies
 └── README.md
 ```
