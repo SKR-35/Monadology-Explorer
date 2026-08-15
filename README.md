@@ -133,7 +133,7 @@ Development dependencies additionally include:
 - Ruff
 - Beautiful Soup
 
-A separate `requirements.txt` is intentionally not required; `pyproject.toml` is the project's dependency and package configuration source.
+pyproject.toml is the dependency and package configuration source of truth. A minimal requirements.txt containing -e . is retained for Streamlit Community Cloud deployment.
 
 ## Installation
 
