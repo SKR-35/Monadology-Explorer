@@ -217,18 +217,18 @@ python scripts/inspect_graph.py
 
 ## Testing
 
-The project uses **pytest** with behavior-focused tests covering exploration logic, graph construction, deterministic layout behavior, loading, validation, graph QA, appearance behavior and canonical-text extraction safeguards.
+The project uses **pytest** with behavior-focused tests covering exploration logic, application session-state transitions, Plotly selection handling, graph construction, deterministic layout behavior, data loading and malformed-record handling, dataset validation, complete curated-dataset integrity, graph QA, appearance behavior and canonical-text extraction and metadata-contamination safeguards.
 
 Run the complete suite with:
 
 ```bash
-pytest
+python -m pytest
 ```
 
 Current v1 verification:
 
 ```text
-31 passed
+58 passed
 0 warnings
 ```
 
