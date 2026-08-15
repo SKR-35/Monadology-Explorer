@@ -1,3 +1,5 @@
+[![CI](https://github.com/SKR-35/Monadology-Explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/SKR-35/Monadology-Explorer/actions/workflows/ci.yml)
+
 # Monadology Explorer
 
 An interactive, graph-based reading experience for **Gottfried Wilhelm Leibniz's _Monadology_**.
@@ -225,12 +227,7 @@ Run the complete suite with:
 python -m pytest
 ```
 
-Current v1 verification:
-
-```text
-58 passed
-0 warnings
-```
+The full test suite is also executed automatically by GitHub Actions on pushes and pull requests using Python 3.12.
 
 ## Code Quality
 
