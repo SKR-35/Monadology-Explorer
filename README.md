@@ -1,4 +1,10 @@
-[![CI](https://github.com/SKR-35/Monadology-Explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/SKR-35/Monadology-Explorer/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=blue)
+![App](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Plotly-3F4F75?logo=plotly&logoColor=white)
+![Graph](https://img.shields.io/badge/Graph-NetworkX-2C5BB4)
+![License](https://img.shields.io/badge/License-Apache--2.0-D22128?logo=apache&logoColor=orange)
+![Tests](https://img.shields.io/badge/Tests-58%20passed-brightgreen)
+[![CI](https://img.shields.io/github/actions/workflow/status/SKR-35/Monadology-Explorer/ci.yml?branch=master&label=CI&logo=githubactions&logoColor=white)](https://github.com/SKR-35/Monadology-Explorer/actions/workflows/ci.yml)
 
 # Monadology Explorer
 
