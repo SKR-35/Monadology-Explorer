@@ -108,3 +108,36 @@ def test_invalid_json_raises_data_load_error(tmp_path):
 
     with pytest.raises(DataLoadError, match="Invalid JSON"):
         load_paragraphs(path)
+        
+def test_paragraph_missing_required_field_raises_data_load_error(tmp_path):
+    path = tmp_path / "paragraphs.json"
+    write_json(
+        path,
+        [
+            {
+                "id": "p001",
+                "number": 1,
+                "theme": "nature_of_monads",
+            }
+        ],
+    )
+
+    with pytest.raises(DataLoadError):
+        load_paragraphs(path)
+
+
+def test_edge_with_malformed_record_raises_data_load_error(tmp_path):
+    path = tmp_path / "edges.json"
+    write_json(
+        path,
+        [
+            {
+                "source": "monad",
+                "target": "p001",
+                # relationship deliberately omitted
+            }
+        ],
+    )
+
+    with pytest.raises(DataLoadError):
+        load_edges(path)

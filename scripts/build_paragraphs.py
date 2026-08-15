@@ -133,17 +133,7 @@ def build_records(
             "Canonical extraction failed. "
             f"Missing={missing}, unexpected={unexpected}"
         )
-
-    return [
-        {
-            "id": f"p{number:03d}",
-            "number": number,
-            "text": paragraphs[number],
-            "theme": theme_for_paragraph(number, themes),
-        }
-        for number in range(1, 91)
-    ]
-    
+        
     forbidden_metadata_markers = (
         "This work is a translation",
         "public domain worldwide",
@@ -161,6 +151,18 @@ def build_records(
             "Canonical extraction contains Wikisource metadata in "
             f"paragraphs: {contaminated}"
         )
+
+    return [
+        {
+            "id": f"p{number:03d}",
+            "number": number,
+            "text": paragraphs[number],
+            "theme": theme_for_paragraph(number, themes),
+        }
+        for number in range(1, 91)
+    ]
+    
+    
 
 
 def main() -> None:
