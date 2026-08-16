@@ -146,7 +146,7 @@ pyproject.toml is the dependency and package configuration source of truth. A mi
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SKR-35/Monadology-Explorer.git
 cd Monadology-Explorer
 ```
 
